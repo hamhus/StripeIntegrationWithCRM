@@ -1,4 +1,4 @@
-# Stripe Integratio nWith CRM
+# Stripe Integration With CRM
 1. Register an account on Stripe
 2. Create a payment page with a credit card
 3. Stripe gives you access to Webhook to perform integration. The webhooks lets you choose triggers to fire your webhook when an action (payment) is performed.
